@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Sneha!
 
-🎓 Final-year BTech student in Artificial Intelligence & Data Science  
+🎓 Pre-Final-year BTech student in Artificial Intelligence & Data Science  
 💡 Passionate about solving real-world problems with technology  
-🔭 Currently working on AI, IoT, and full-stack projects  
+🌐 Learning DSA and solving problems in competitive programming
+🔭 Currently working on AI , Data Science and IOT also
 📫 Always open to learning, collaborating, and building impactful tech
 
 ---
@@ -56,7 +57,8 @@ Distributed Systems, Information Retrieval, Data Compression
 
 
 ## 📫 Connect with Me  
-- LinkedIn: [your-linkedin-url](www.linkedin.com/in/sneha-m-22ad47)
+- LinkedIn: [sneha-m](www.linkedin.com/in/sneha-m-22ad47)
+- Instagram: [snehamurugesan47](https://www.instagram.com/snehamurugesan47/)
 
 ---
 
