@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sneha!
 
 🎓 Pre-Final-year BTech student in Artificial Intelligence & Data Science  
-💡 Passionate about solving real-world problems with technology  
+💡 Passionate about solving real-world problems with technology 
 🌐 Learning DSA and solving problems in competitive programming
 🔭 Currently working on AI , Data Science and IOT also
 📫 Always open to learning, collaborating, and building impactful tech
