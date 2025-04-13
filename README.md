@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi there, I'm Sneha!
 
 🎓 Final-year BTech student in Artificial Intelligence & Data Science  
 💡 Passionate about solving real-world problems with technology  
